@@ -1,0 +1,2219 @@
+{
+  "synthetic": true,
+  "actualDevelopmentYear": 2026,
+  "scenarioCommitCount": 367,
+  "scenarioCommits": [
+    {
+      "scenarioAuthorDate": "2012-07-05T08:47:07+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 0
+    },
+    {
+      "scenarioAuthorDate": "2012-07-05T11:04:11+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 1
+    },
+    {
+      "scenarioAuthorDate": "2012-07-05T14:33:58+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 2
+    },
+    {
+      "scenarioAuthorDate": "2012-07-05T17:06:15+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 3
+    },
+    {
+      "scenarioAuthorDate": "2012-07-05T20:49:02+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 4
+    },
+    {
+      "scenarioAuthorDate": "2012-07-09T08:30:08+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 5
+    },
+    {
+      "scenarioAuthorDate": "2012-07-10T18:11:59+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 6
+    },
+    {
+      "scenarioAuthorDate": "2012-07-11T11:04:47+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 7
+    },
+    {
+      "scenarioAuthorDate": "2012-07-11T19:12:10+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 8
+    },
+    {
+      "scenarioAuthorDate": "2012-07-14T08:21:35+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 9
+    },
+    {
+      "scenarioAuthorDate": "2012-07-14T18:41:42+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 10
+    },
+    {
+      "scenarioAuthorDate": "2012-07-16T10:31:24+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 11
+    },
+    {
+      "scenarioAuthorDate": "2012-07-18T18:49:28+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 12
+    },
+    {
+      "scenarioAuthorDate": "2012-07-20T18:05:01+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 13
+    },
+    {
+      "scenarioAuthorDate": "2012-07-21T10:15:35+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 14
+    },
+    {
+      "scenarioAuthorDate": "2012-07-21T13:22:55+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 15
+    },
+    {
+      "scenarioAuthorDate": "2012-07-21T14:27:51+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 16
+    },
+    {
+      "scenarioAuthorDate": "2012-07-21T19:12:03+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 17
+    },
+    {
+      "scenarioAuthorDate": "2012-07-23T20:15:48+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 18
+    },
+    {
+      "scenarioAuthorDate": "2012-07-25T08:52:36+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 19
+    },
+    {
+      "scenarioAuthorDate": "2012-07-25T16:24:54+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 20
+    },
+    {
+      "scenarioAuthorDate": "2012-07-26T10:35:57+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 21
+    },
+    {
+      "scenarioAuthorDate": "2012-07-27T12:10:29+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 22
+    },
+    {
+      "scenarioAuthorDate": "2012-07-27T17:33:52+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 23
+    },
+    {
+      "scenarioAuthorDate": "2012-07-28T11:20:03+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 24
+    },
+    {
+      "scenarioAuthorDate": "2012-07-30T08:17:08+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 25
+    },
+    {
+      "scenarioAuthorDate": "2012-07-30T20:38:01+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 26
+    },
+    {
+      "scenarioAuthorDate": "2012-07-31T11:08:02+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 27
+    },
+    {
+      "scenarioAuthorDate": "2012-08-01T09:16:19+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 28
+    },
+    {
+      "scenarioAuthorDate": "2012-08-02T17:42:58+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 29
+    },
+    {
+      "scenarioAuthorDate": "2012-08-02T22:15:36+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 30
+    },
+    {
+      "scenarioAuthorDate": "2012-08-03T15:21:36+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 31
+    },
+    {
+      "scenarioAuthorDate": "2012-08-05T08:36:28+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 32
+    },
+    {
+      "scenarioAuthorDate": "2012-08-05T21:33:24+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 33
+    },
+    {
+      "scenarioAuthorDate": "2012-08-08T15:33:32+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 34
+    },
+    {
+      "scenarioAuthorDate": "2012-08-09T20:56:19+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 35
+    },
+    {
+      "scenarioAuthorDate": "2012-08-10T17:23:27+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 36
+    },
+    {
+      "scenarioAuthorDate": "2012-08-10T22:42:54+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 37
+    },
+    {
+      "scenarioAuthorDate": "2012-08-13T17:25:36+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 38
+    },
+    {
+      "scenarioAuthorDate": "2012-08-15T10:37:43+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 39
+    },
+    {
+      "scenarioAuthorDate": "2012-08-15T19:30:03+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 40
+    },
+    {
+      "scenarioAuthorDate": "2012-08-18T19:52:32+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 41
+    },
+    {
+      "scenarioAuthorDate": "2012-08-19T10:24:51+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 42
+    },
+    {
+      "scenarioAuthorDate": "2012-08-19T14:46:22+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 43
+    },
+    {
+      "scenarioAuthorDate": "2012-08-19T18:17:43+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 44
+    },
+    {
+      "scenarioAuthorDate": "2012-08-19T22:32:54+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 45
+    },
+    {
+      "scenarioAuthorDate": "2012-08-22T16:59:24+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 46
+    },
+    {
+      "scenarioAuthorDate": "2012-08-24T13:02:05+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 47
+    },
+    {
+      "scenarioAuthorDate": "2012-08-25T11:05:06+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 48
+    },
+    {
+      "scenarioAuthorDate": "2012-08-25T20:09:11+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 49
+    },
+    {
+      "scenarioAuthorDate": "2012-08-29T16:04:28+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 50
+    },
+    {
+      "scenarioAuthorDate": "2012-08-30T14:00:29+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 51
+    },
+    {
+      "scenarioAuthorDate": "2012-08-30T18:11:53+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 52
+    },
+    {
+      "scenarioAuthorDate": "2012-08-31T19:30:42+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 53
+    },
+    {
+      "scenarioAuthorDate": "2012-09-01T10:42:16+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 54
+    },
+    {
+      "scenarioAuthorDate": "2012-09-01T14:31:12+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 55
+    },
+    {
+      "scenarioAuthorDate": "2012-09-01T17:53:21+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 56
+    },
+    {
+      "scenarioAuthorDate": "2012-09-01T19:59:38+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 57
+    },
+    {
+      "scenarioAuthorDate": "2012-09-02T10:53:06+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 58
+    },
+    {
+      "scenarioAuthorDate": "2012-09-02T17:54:17+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 59
+    },
+    {
+      "scenarioAuthorDate": "2012-09-03T20:05:45+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 60
+    },
+    {
+      "scenarioAuthorDate": "2012-09-04T10:14:59+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 61
+    },
+    {
+      "scenarioAuthorDate": "2012-09-04T12:03:58+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 62
+    },
+    {
+      "scenarioAuthorDate": "2012-09-04T15:04:24+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 63
+    },
+    {
+      "scenarioAuthorDate": "2012-09-04T20:34:57+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 64
+    },
+    {
+      "scenarioAuthorDate": "2012-09-04T22:30:32+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 65
+    },
+    {
+      "scenarioAuthorDate": "2012-09-08T17:37:55+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 66
+    },
+    {
+      "scenarioAuthorDate": "2012-09-09T11:27:21+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 67
+    },
+    {
+      "scenarioAuthorDate": "2012-09-09T14:41:31+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 68
+    },
+    {
+      "scenarioAuthorDate": "2012-09-09T17:26:26+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 69
+    },
+    {
+      "scenarioAuthorDate": "2012-09-09T21:28:46+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 70
+    },
+    {
+      "scenarioAuthorDate": "2012-09-11T12:48:49+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 71
+    },
+    {
+      "scenarioAuthorDate": "2012-09-13T13:40:53+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 72
+    },
+    {
+      "scenarioAuthorDate": "2012-09-15T18:56:33+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 73
+    },
+    {
+      "scenarioAuthorDate": "2012-09-17T22:27:29+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 74
+    },
+    {
+      "scenarioAuthorDate": "2012-09-18T15:06:01+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 75
+    },
+    {
+      "scenarioAuthorDate": "2012-09-18T20:21:44+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 76
+    },
+    {
+      "scenarioAuthorDate": "2012-09-22T09:46:44+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 77
+    },
+    {
+      "scenarioAuthorDate": "2012-09-23T13:36:52+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 78
+    },
+    {
+      "scenarioAuthorDate": "2012-09-25T18:34:16+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 79
+    },
+    {
+      "scenarioAuthorDate": "2012-09-26T13:33:41+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 80
+    },
+    {
+      "scenarioAuthorDate": "2012-09-26T20:09:39+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 81
+    },
+    {
+      "scenarioAuthorDate": "2012-09-27T16:23:36+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 82
+    },
+    {
+      "scenarioAuthorDate": "2012-09-28T11:26:30+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 83
+    },
+    {
+      "scenarioAuthorDate": "2012-09-28T17:12:44+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 84
+    },
+    {
+      "scenarioAuthorDate": "2012-10-01T13:26:44+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 85
+    },
+    {
+      "scenarioAuthorDate": "2012-10-01T17:45:23+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 86
+    },
+    {
+      "scenarioAuthorDate": "2012-10-02T09:04:03+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 87
+    },
+    {
+      "scenarioAuthorDate": "2012-10-02T12:46:11+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 88
+    },
+    {
+      "scenarioAuthorDate": "2012-10-02T15:57:52+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 89
+    },
+    {
+      "scenarioAuthorDate": "2012-10-02T18:46:38+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 90
+    },
+    {
+      "scenarioAuthorDate": "2012-10-02T21:18:17+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 91
+    },
+    {
+      "scenarioAuthorDate": "2012-10-03T15:43:16+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 92
+    },
+    {
+      "scenarioAuthorDate": "2012-10-04T09:55:58+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 93
+    },
+    {
+      "scenarioAuthorDate": "2012-10-04T13:52:12+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 94
+    },
+    {
+      "scenarioAuthorDate": "2012-10-04T18:49:36+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 95
+    },
+    {
+      "scenarioAuthorDate": "2012-10-05T16:46:55+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 96
+    },
+    {
+      "scenarioAuthorDate": "2012-10-07T14:50:51+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 97
+    },
+    {
+      "scenarioAuthorDate": "2012-10-07T18:26:14+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 98
+    },
+    {
+      "scenarioAuthorDate": "2012-10-08T08:58:20+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 99
+    },
+    {
+      "scenarioAuthorDate": "2012-10-08T15:05:11+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 100
+    },
+    {
+      "scenarioAuthorDate": "2012-10-08T20:51:38+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 101
+    },
+    {
+      "scenarioAuthorDate": "2012-10-11T12:27:14+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 102
+    },
+    {
+      "scenarioAuthorDate": "2012-10-11T20:06:42+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 103
+    },
+    {
+      "scenarioAuthorDate": "2012-10-13T10:13:01+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 104
+    },
+    {
+      "scenarioAuthorDate": "2012-10-13T19:43:58+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 105
+    },
+    {
+      "scenarioAuthorDate": "2012-10-14T16:08:37+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 106
+    },
+    {
+      "scenarioAuthorDate": "2012-10-14T19:44:04+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 107
+    },
+    {
+      "scenarioAuthorDate": "2012-10-15T19:17:34+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 108
+    },
+    {
+      "scenarioAuthorDate": "2012-10-16T11:08:50+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 109
+    },
+    {
+      "scenarioAuthorDate": "2012-10-16T17:08:57+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 110
+    },
+    {
+      "scenarioAuthorDate": "2012-10-16T19:28:46+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 111
+    },
+    {
+      "scenarioAuthorDate": "2012-10-18T18:05:02+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 112
+    },
+    {
+      "scenarioAuthorDate": "2012-10-19T21:21:35+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 113
+    },
+    {
+      "scenarioAuthorDate": "2012-10-22T12:35:28+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 114
+    },
+    {
+      "scenarioAuthorDate": "2012-10-23T08:22:04+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 115
+    },
+    {
+      "scenarioAuthorDate": "2012-10-23T12:03:07+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 116
+    },
+    {
+      "scenarioAuthorDate": "2012-10-23T20:36:27+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 117
+    },
+    {
+      "scenarioAuthorDate": "2012-10-25T08:26:38+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 118
+    },
+    {
+      "scenarioAuthorDate": "2012-10-26T09:02:41+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 119
+    },
+    {
+      "scenarioAuthorDate": "2012-10-26T10:30:00+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 120
+    },
+    {
+      "scenarioAuthorDate": "2012-10-26T14:09:37+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 121
+    },
+    {
+      "scenarioAuthorDate": "2012-10-26T16:52:06+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 122
+    },
+    {
+      "scenarioAuthorDate": "2012-10-26T19:32:07+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 123
+    },
+    {
+      "scenarioAuthorDate": "2012-10-27T18:29:18+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 124
+    },
+    {
+      "scenarioAuthorDate": "2012-10-29T08:20:30+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 125
+    },
+    {
+      "scenarioAuthorDate": "2012-10-29T14:27:00+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 126
+    },
+    {
+      "scenarioAuthorDate": "2012-10-29T17:20:53+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 127
+    },
+    {
+      "scenarioAuthorDate": "2012-10-30T08:24:04+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 128
+    },
+    {
+      "scenarioAuthorDate": "2012-10-30T14:35:13+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 129
+    },
+    {
+      "scenarioAuthorDate": "2012-11-02T13:09:33+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 130
+    },
+    {
+      "scenarioAuthorDate": "2012-11-03T11:46:28+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 131
+    },
+    {
+      "scenarioAuthorDate": "2012-11-03T21:18:15+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 132
+    },
+    {
+      "scenarioAuthorDate": "2012-11-04T16:01:03+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 133
+    },
+    {
+      "scenarioAuthorDate": "2012-11-06T18:51:43+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 134
+    },
+    {
+      "scenarioAuthorDate": "2012-11-07T15:30:20+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 135
+    },
+    {
+      "scenarioAuthorDate": "2012-11-07T22:23:32+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 136
+    },
+    {
+      "scenarioAuthorDate": "2012-11-11T15:49:44+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 137
+    },
+    {
+      "scenarioAuthorDate": "2012-11-13T12:16:21+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 138
+    },
+    {
+      "scenarioAuthorDate": "2012-11-16T16:14:11+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 139
+    },
+    {
+      "scenarioAuthorDate": "2012-11-19T10:51:48+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 140
+    },
+    {
+      "scenarioAuthorDate": "2012-11-21T13:55:13+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 141
+    },
+    {
+      "scenarioAuthorDate": "2012-11-21T21:07:17+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 142
+    },
+    {
+      "scenarioAuthorDate": "2012-11-24T17:08:32+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 143
+    },
+    {
+      "scenarioAuthorDate": "2012-11-27T10:04:04+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 144
+    },
+    {
+      "scenarioAuthorDate": "2012-11-27T13:15:12+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 145
+    },
+    {
+      "scenarioAuthorDate": "2012-11-27T14:49:15+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 146
+    },
+    {
+      "scenarioAuthorDate": "2012-11-27T17:43:20+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 147
+    },
+    {
+      "scenarioAuthorDate": "2012-11-27T20:33:04+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 148
+    },
+    {
+      "scenarioAuthorDate": "2012-11-28T12:13:11+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 149
+    },
+    {
+      "scenarioAuthorDate": "2012-11-29T08:40:25+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 150
+    },
+    {
+      "scenarioAuthorDate": "2012-11-29T14:31:34+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 151
+    },
+    {
+      "scenarioAuthorDate": "2012-11-29T20:16:32+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 152
+    },
+    {
+      "scenarioAuthorDate": "2012-12-02T14:34:56+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 153
+    },
+    {
+      "scenarioAuthorDate": "2012-12-03T09:39:34+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 154
+    },
+    {
+      "scenarioAuthorDate": "2012-12-03T17:09:48+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 155
+    },
+    {
+      "scenarioAuthorDate": "2012-12-03T20:13:52+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 156
+    },
+    {
+      "scenarioAuthorDate": "2012-12-06T11:22:33+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 157
+    },
+    {
+      "scenarioAuthorDate": "2012-12-10T15:14:24+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 158
+    },
+    {
+      "scenarioAuthorDate": "2012-12-10T19:27:15+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 159
+    },
+    {
+      "scenarioAuthorDate": "2012-12-10T22:02:38+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 160
+    },
+    {
+      "scenarioAuthorDate": "2012-12-11T13:33:23+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 161
+    },
+    {
+      "scenarioAuthorDate": "2012-12-11T18:34:51+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 162
+    },
+    {
+      "scenarioAuthorDate": "2012-12-11T22:51:16+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 163
+    },
+    {
+      "scenarioAuthorDate": "2012-12-16T22:09:13+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 164
+    },
+    {
+      "scenarioAuthorDate": "2012-12-18T10:07:05+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 165
+    },
+    {
+      "scenarioAuthorDate": "2012-12-18T11:04:24+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 166
+    },
+    {
+      "scenarioAuthorDate": "2012-12-18T13:58:51+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 167
+    },
+    {
+      "scenarioAuthorDate": "2012-12-18T17:36:17+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 168
+    },
+    {
+      "scenarioAuthorDate": "2012-12-18T21:16:01+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 169
+    },
+    {
+      "scenarioAuthorDate": "2012-12-19T09:12:35+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 170
+    },
+    {
+      "scenarioAuthorDate": "2012-12-19T11:01:25+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 171
+    },
+    {
+      "scenarioAuthorDate": "2012-12-19T17:17:40+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 172
+    },
+    {
+      "scenarioAuthorDate": "2012-12-19T19:05:54+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 173
+    },
+    {
+      "scenarioAuthorDate": "2012-12-19T22:39:51+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 174
+    },
+    {
+      "scenarioAuthorDate": "2012-12-25T20:57:41+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 175
+    },
+    {
+      "scenarioAuthorDate": "2012-12-27T11:47:43+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 176
+    },
+    {
+      "scenarioAuthorDate": "2012-12-29T08:01:05+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 177
+    },
+    {
+      "scenarioAuthorDate": "2012-12-29T17:48:15+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 178
+    },
+    {
+      "scenarioAuthorDate": "2012-12-30T09:53:44+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 179
+    },
+    {
+      "scenarioAuthorDate": "2012-12-30T11:48:01+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 180
+    },
+    {
+      "scenarioAuthorDate": "2012-12-30T15:46:17+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 181
+    },
+    {
+      "scenarioAuthorDate": "2012-12-30T20:51:40+00:00",
+      "year": 2012,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 182
+    },
+    {
+      "scenarioAuthorDate": "2013-01-01T10:52:56+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 183
+    },
+    {
+      "scenarioAuthorDate": "2013-01-06T12:32:55+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 184
+    },
+    {
+      "scenarioAuthorDate": "2013-01-08T12:24:36+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 185
+    },
+    {
+      "scenarioAuthorDate": "2013-01-09T14:32:01+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 186
+    },
+    {
+      "scenarioAuthorDate": "2013-01-13T14:55:09+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 187
+    },
+    {
+      "scenarioAuthorDate": "2013-01-15T20:28:46+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 188
+    },
+    {
+      "scenarioAuthorDate": "2013-01-19T09:21:48+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 189
+    },
+    {
+      "scenarioAuthorDate": "2013-01-19T12:20:37+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 190
+    },
+    {
+      "scenarioAuthorDate": "2013-01-19T20:11:26+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 191
+    },
+    {
+      "scenarioAuthorDate": "2013-01-22T12:54:12+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 192
+    },
+    {
+      "scenarioAuthorDate": "2013-01-28T16:54:25+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 193
+    },
+    {
+      "scenarioAuthorDate": "2013-02-02T15:57:52+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 194
+    },
+    {
+      "scenarioAuthorDate": "2013-02-06T13:13:58+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 195
+    },
+    {
+      "scenarioAuthorDate": "2013-02-15T17:54:55+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 196
+    },
+    {
+      "scenarioAuthorDate": "2013-02-16T10:12:22+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 197
+    },
+    {
+      "scenarioAuthorDate": "2013-02-16T18:54:41+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 198
+    },
+    {
+      "scenarioAuthorDate": "2013-02-17T16:10:09+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 199
+    },
+    {
+      "scenarioAuthorDate": "2013-02-18T20:06:36+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 200
+    },
+    {
+      "scenarioAuthorDate": "2013-02-21T09:38:31+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 201
+    },
+    {
+      "scenarioAuthorDate": "2013-02-21T15:30:40+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 202
+    },
+    {
+      "scenarioAuthorDate": "2013-02-21T18:54:04+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 203
+    },
+    {
+      "scenarioAuthorDate": "2013-02-22T15:01:58+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 204
+    },
+    {
+      "scenarioAuthorDate": "2013-02-23T10:22:06+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 205
+    },
+    {
+      "scenarioAuthorDate": "2013-02-23T15:32:26+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 206
+    },
+    {
+      "scenarioAuthorDate": "2013-02-25T11:31:25+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 207
+    },
+    {
+      "scenarioAuthorDate": "2013-03-03T15:55:25+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 208
+    },
+    {
+      "scenarioAuthorDate": "2013-03-03T22:59:19+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 209
+    },
+    {
+      "scenarioAuthorDate": "2013-03-06T12:04:29+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 210
+    },
+    {
+      "scenarioAuthorDate": "2013-03-09T10:01:43+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 211
+    },
+    {
+      "scenarioAuthorDate": "2013-03-11T14:48:22+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 212
+    },
+    {
+      "scenarioAuthorDate": "2013-03-14T08:56:29+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 213
+    },
+    {
+      "scenarioAuthorDate": "2013-03-14T14:30:24+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 214
+    },
+    {
+      "scenarioAuthorDate": "2013-03-14T20:56:58+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 215
+    },
+    {
+      "scenarioAuthorDate": "2013-03-15T20:10:41+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 216
+    },
+    {
+      "scenarioAuthorDate": "2013-03-19T11:53:15+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 217
+    },
+    {
+      "scenarioAuthorDate": "2013-03-21T12:02:42+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 218
+    },
+    {
+      "scenarioAuthorDate": "2013-03-21T22:35:06+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 219
+    },
+    {
+      "scenarioAuthorDate": "2013-03-23T14:32:51+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 220
+    },
+    {
+      "scenarioAuthorDate": "2013-03-27T09:33:17+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 221
+    },
+    {
+      "scenarioAuthorDate": "2013-03-29T11:14:12+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 222
+    },
+    {
+      "scenarioAuthorDate": "2013-03-31T10:12:59+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 223
+    },
+    {
+      "scenarioAuthorDate": "2013-03-31T15:39:12+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 224
+    },
+    {
+      "scenarioAuthorDate": "2013-03-31T21:56:30+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 225
+    },
+    {
+      "scenarioAuthorDate": "2013-04-02T09:00:36+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 226
+    },
+    {
+      "scenarioAuthorDate": "2013-04-02T19:43:54+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 227
+    },
+    {
+      "scenarioAuthorDate": "2013-04-05T15:50:54+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 228
+    },
+    {
+      "scenarioAuthorDate": "2013-04-09T09:24:47+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 229
+    },
+    {
+      "scenarioAuthorDate": "2013-04-09T20:32:11+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 230
+    },
+    {
+      "scenarioAuthorDate": "2013-04-12T08:05:50+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 231
+    },
+    {
+      "scenarioAuthorDate": "2013-04-12T11:46:57+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 232
+    },
+    {
+      "scenarioAuthorDate": "2013-04-12T21:21:44+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 233
+    },
+    {
+      "scenarioAuthorDate": "2013-04-15T11:35:23+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 234
+    },
+    {
+      "scenarioAuthorDate": "2013-04-15T19:01:00+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 235
+    },
+    {
+      "scenarioAuthorDate": "2013-04-18T15:45:21+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 236
+    },
+    {
+      "scenarioAuthorDate": "2013-04-19T14:56:59+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 237
+    },
+    {
+      "scenarioAuthorDate": "2013-04-23T16:52:10+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 238
+    },
+    {
+      "scenarioAuthorDate": "2013-04-28T18:23:00+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 239
+    },
+    {
+      "scenarioAuthorDate": "2013-05-01T10:06:22+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 240
+    },
+    {
+      "scenarioAuthorDate": "2013-05-01T21:13:16+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 241
+    },
+    {
+      "scenarioAuthorDate": "2013-05-05T17:03:26+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 242
+    },
+    {
+      "scenarioAuthorDate": "2013-05-09T15:23:56+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 243
+    },
+    {
+      "scenarioAuthorDate": "2013-05-10T11:59:52+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 244
+    },
+    {
+      "scenarioAuthorDate": "2013-05-10T14:33:32+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 245
+    },
+    {
+      "scenarioAuthorDate": "2013-05-10T20:46:25+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 246
+    },
+    {
+      "scenarioAuthorDate": "2013-05-14T17:18:48+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 247
+    },
+    {
+      "scenarioAuthorDate": "2013-05-17T10:50:10+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 248
+    },
+    {
+      "scenarioAuthorDate": "2013-05-17T17:26:04+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 249
+    },
+    {
+      "scenarioAuthorDate": "2013-05-19T14:52:31+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 250
+    },
+    {
+      "scenarioAuthorDate": "2013-05-20T09:27:33+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 251
+    },
+    {
+      "scenarioAuthorDate": "2013-05-21T14:38:35+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 252
+    },
+    {
+      "scenarioAuthorDate": "2013-05-26T16:36:02+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 253
+    },
+    {
+      "scenarioAuthorDate": "2013-05-27T16:31:45+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 254
+    },
+    {
+      "scenarioAuthorDate": "2013-05-28T13:30:20+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 255
+    },
+    {
+      "scenarioAuthorDate": "2013-05-29T15:16:12+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 256
+    },
+    {
+      "scenarioAuthorDate": "2013-05-30T12:54:22+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 257
+    },
+    {
+      "scenarioAuthorDate": "2013-05-31T16:56:27+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 258
+    },
+    {
+      "scenarioAuthorDate": "2013-06-01T18:25:02+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 259
+    },
+    {
+      "scenarioAuthorDate": "2013-06-05T13:21:23+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 260
+    },
+    {
+      "scenarioAuthorDate": "2013-06-09T22:26:48+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 261
+    },
+    {
+      "scenarioAuthorDate": "2013-06-16T18:30:28+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 262
+    },
+    {
+      "scenarioAuthorDate": "2013-06-21T15:35:36+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 263
+    },
+    {
+      "scenarioAuthorDate": "2013-06-24T10:31:29+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 264
+    },
+    {
+      "scenarioAuthorDate": "2013-06-28T16:08:38+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 265
+    },
+    {
+      "scenarioAuthorDate": "2013-07-01T11:55:01+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 266
+    },
+    {
+      "scenarioAuthorDate": "2013-07-01T15:30:56+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 267
+    },
+    {
+      "scenarioAuthorDate": "2013-07-01T19:06:58+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 268
+    },
+    {
+      "scenarioAuthorDate": "2013-07-01T22:05:08+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 269
+    },
+    {
+      "scenarioAuthorDate": "2013-07-06T12:49:41+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 270
+    },
+    {
+      "scenarioAuthorDate": "2013-07-07T21:24:44+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 271
+    },
+    {
+      "scenarioAuthorDate": "2013-07-09T12:52:36+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 272
+    },
+    {
+      "scenarioAuthorDate": "2013-07-12T11:57:49+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 273
+    },
+    {
+      "scenarioAuthorDate": "2013-07-13T10:19:50+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 274
+    },
+    {
+      "scenarioAuthorDate": "2013-07-13T17:19:09+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 275
+    },
+    {
+      "scenarioAuthorDate": "2013-07-17T17:00:54+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 276
+    },
+    {
+      "scenarioAuthorDate": "2013-07-18T18:43:42+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 277
+    },
+    {
+      "scenarioAuthorDate": "2013-07-18T22:51:09+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 278
+    },
+    {
+      "scenarioAuthorDate": "2013-07-19T13:21:53+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 279
+    },
+    {
+      "scenarioAuthorDate": "2013-07-19T15:55:42+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 280
+    },
+    {
+      "scenarioAuthorDate": "2013-07-21T12:20:27+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 281
+    },
+    {
+      "scenarioAuthorDate": "2013-07-22T19:15:14+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 282
+    },
+    {
+      "scenarioAuthorDate": "2013-07-24T20:42:23+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 283
+    },
+    {
+      "scenarioAuthorDate": "2013-07-27T16:59:45+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 284
+    },
+    {
+      "scenarioAuthorDate": "2013-07-28T22:43:23+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 285
+    },
+    {
+      "scenarioAuthorDate": "2013-07-30T21:06:32+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 286
+    },
+    {
+      "scenarioAuthorDate": "2013-08-04T10:03:54+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 287
+    },
+    {
+      "scenarioAuthorDate": "2013-08-08T11:57:54+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 288
+    },
+    {
+      "scenarioAuthorDate": "2013-08-14T14:33:35+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 289
+    },
+    {
+      "scenarioAuthorDate": "2013-08-15T11:08:58+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 290
+    },
+    {
+      "scenarioAuthorDate": "2013-08-15T19:03:00+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 291
+    },
+    {
+      "scenarioAuthorDate": "2013-08-17T12:38:14+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 292
+    },
+    {
+      "scenarioAuthorDate": "2013-08-19T08:58:22+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 293
+    },
+    {
+      "scenarioAuthorDate": "2013-08-23T19:23:38+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 294
+    },
+    {
+      "scenarioAuthorDate": "2013-08-24T14:03:48+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 295
+    },
+    {
+      "scenarioAuthorDate": "2013-08-24T18:23:49+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 296
+    },
+    {
+      "scenarioAuthorDate": "2013-08-26T14:47:00+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 297
+    },
+    {
+      "scenarioAuthorDate": "2013-08-27T11:20:48+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 298
+    },
+    {
+      "scenarioAuthorDate": "2013-08-30T09:13:52+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 299
+    },
+    {
+      "scenarioAuthorDate": "2013-08-30T15:42:08+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 300
+    },
+    {
+      "scenarioAuthorDate": "2013-09-03T16:53:13+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 301
+    },
+    {
+      "scenarioAuthorDate": "2013-09-04T09:50:03+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 302
+    },
+    {
+      "scenarioAuthorDate": "2013-09-05T13:43:16+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 303
+    },
+    {
+      "scenarioAuthorDate": "2013-09-05T18:54:49+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 304
+    },
+    {
+      "scenarioAuthorDate": "2013-09-08T08:37:47+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 305
+    },
+    {
+      "scenarioAuthorDate": "2013-09-08T18:49:47+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 306
+    },
+    {
+      "scenarioAuthorDate": "2013-09-09T12:25:59+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 307
+    },
+    {
+      "scenarioAuthorDate": "2013-09-09T21:32:10+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 308
+    },
+    {
+      "scenarioAuthorDate": "2013-09-12T17:20:05+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 309
+    },
+    {
+      "scenarioAuthorDate": "2013-09-13T20:19:22+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 310
+    },
+    {
+      "scenarioAuthorDate": "2013-09-15T08:20:57+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 311
+    },
+    {
+      "scenarioAuthorDate": "2013-09-15T18:23:23+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 312
+    },
+    {
+      "scenarioAuthorDate": "2013-09-16T22:56:31+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 313
+    },
+    {
+      "scenarioAuthorDate": "2013-09-20T11:02:38+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 314
+    },
+    {
+      "scenarioAuthorDate": "2013-09-20T14:50:39+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 315
+    },
+    {
+      "scenarioAuthorDate": "2013-09-20T18:33:33+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 316
+    },
+    {
+      "scenarioAuthorDate": "2013-09-20T21:15:25+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 317
+    },
+    {
+      "scenarioAuthorDate": "2013-09-21T13:23:52+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 318
+    },
+    {
+      "scenarioAuthorDate": "2013-09-21T16:56:33+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 319
+    },
+    {
+      "scenarioAuthorDate": "2013-09-25T08:09:05+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 320
+    },
+    {
+      "scenarioAuthorDate": "2013-09-26T10:45:35+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 321
+    },
+    {
+      "scenarioAuthorDate": "2013-09-29T11:02:56+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 322
+    },
+    {
+      "scenarioAuthorDate": "2013-09-30T16:10:44+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 323
+    },
+    {
+      "scenarioAuthorDate": "2013-10-02T08:19:25+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 324
+    },
+    {
+      "scenarioAuthorDate": "2013-10-03T12:57:47+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 325
+    },
+    {
+      "scenarioAuthorDate": "2013-10-03T21:50:07+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 326
+    },
+    {
+      "scenarioAuthorDate": "2013-10-09T18:29:38+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 327
+    },
+    {
+      "scenarioAuthorDate": "2013-10-11T13:42:44+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 328
+    },
+    {
+      "scenarioAuthorDate": "2013-10-15T08:36:02+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 329
+    },
+    {
+      "scenarioAuthorDate": "2013-10-15T14:27:33+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 330
+    },
+    {
+      "scenarioAuthorDate": "2013-10-15T19:36:44+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 331
+    },
+    {
+      "scenarioAuthorDate": "2013-10-17T12:25:31+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 332
+    },
+    {
+      "scenarioAuthorDate": "2013-10-24T15:31:08+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 333
+    },
+    {
+      "scenarioAuthorDate": "2013-10-26T08:12:04+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 334
+    },
+    {
+      "scenarioAuthorDate": "2013-10-27T08:48:10+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 335
+    },
+    {
+      "scenarioAuthorDate": "2013-10-31T11:45:55+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 336
+    },
+    {
+      "scenarioAuthorDate": "2013-11-02T15:34:18+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 337
+    },
+    {
+      "scenarioAuthorDate": "2013-11-05T12:13:12+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 338
+    },
+    {
+      "scenarioAuthorDate": "2013-11-06T11:14:00+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 339
+    },
+    {
+      "scenarioAuthorDate": "2013-11-08T13:23:43+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 340
+    },
+    {
+      "scenarioAuthorDate": "2013-11-11T19:52:59+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 341
+    },
+    {
+      "scenarioAuthorDate": "2013-11-14T22:28:44+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 342
+    },
+    {
+      "scenarioAuthorDate": "2013-11-19T09:57:49+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 343
+    },
+    {
+      "scenarioAuthorDate": "2013-11-19T14:44:53+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 344
+    },
+    {
+      "scenarioAuthorDate": "2013-11-19T20:30:10+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 345
+    },
+    {
+      "scenarioAuthorDate": "2013-11-24T13:24:59+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 346
+    },
+    {
+      "scenarioAuthorDate": "2013-11-27T15:56:25+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 347
+    },
+    {
+      "scenarioAuthorDate": "2013-11-28T22:13:14+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 348
+    },
+    {
+      "scenarioAuthorDate": "2013-12-02T10:07:00+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 349
+    },
+    {
+      "scenarioAuthorDate": "2013-12-04T21:31:24+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 350
+    },
+    {
+      "scenarioAuthorDate": "2013-12-09T11:04:04+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 351
+    },
+    {
+      "scenarioAuthorDate": "2013-12-11T12:56:57+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 352
+    },
+    {
+      "scenarioAuthorDate": "2013-12-13T21:56:50+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 353
+    },
+    {
+      "scenarioAuthorDate": "2013-12-14T19:06:53+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 354
+    },
+    {
+      "scenarioAuthorDate": "2013-12-16T11:37:18+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 355
+    },
+    {
+      "scenarioAuthorDate": "2013-12-16T19:15:34+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 356
+    },
+    {
+      "scenarioAuthorDate": "2013-12-16T22:23:05+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 357
+    },
+    {
+      "scenarioAuthorDate": "2013-12-17T19:50:59+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 358
+    },
+    {
+      "scenarioAuthorDate": "2013-12-22T13:07:44+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 359
+    },
+    {
+      "scenarioAuthorDate": "2013-12-22T18:53:04+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 360
+    },
+    {
+      "scenarioAuthorDate": "2013-12-24T20:20:03+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 361
+    },
+    {
+      "scenarioAuthorDate": "2013-12-26T08:24:05+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 362
+    },
+    {
+      "scenarioAuthorDate": "2013-12-30T11:36:20+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 363
+    },
+    {
+      "scenarioAuthorDate": "2013-12-30T14:24:59+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 364
+    },
+    {
+      "scenarioAuthorDate": "2013-12-30T18:51:20+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 365
+    },
+    {
+      "scenarioAuthorDate": "2013-12-31T15:42:17+00:00",
+      "year": 2013,
+      "repository": "text-counter-simulation",
+      "fixtureIndex": 366
+    }
+  ],
+  "committerTimeline": {
+    "synthetic": true,
+    "modeledYears": [
+      2012,
+      2013
+    ],
+    "actualPresentationUpdateAt": "2026-11-05T13:19:47.798358+00:00",
+    "allAuthorHeadersPreserved": true,
+    "fixtureCommittersMatchIllustrativeAuthorDates": true
+  }
+}
