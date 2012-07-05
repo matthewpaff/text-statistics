@@ -1,1 +1,2 @@
 {"expected": {"characters": 0, "lines": 0, "longest_word": 0, "top_words": [], "unique_words": 0, "words": 0}, "id": "synthetic-text-0000", "input": ""}
+{"expected": {"characters": 17, "lines": 2, "longest_word": 8, "top_words": [{"count": 2, "word": "word0001"}], "unique_words": 1, "words": 2}, "id": "synthetic-text-0001", "input": "word0001\nword0001"}
