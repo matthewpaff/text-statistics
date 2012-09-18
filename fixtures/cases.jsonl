@@ -73,3 +73,4 @@
 {"expected": {"characters": 8, "lines": 1, "longest_word": 8, "top_words": [{"count": 1, "word": "word0072"}], "unique_words": 1, "words": 1}, "id": "synthetic-text-0072", "input": "word0072"}
 {"expected": {"characters": 17, "lines": 2, "longest_word": 8, "top_words": [{"count": 2, "word": "word0073"}], "unique_words": 1, "words": 2}, "id": "synthetic-text-0073", "input": "word0073\nword0073"}
 {"expected": {"characters": 26, "lines": 1, "longest_word": 8, "top_words": [{"count": 3, "word": "word0074"}], "unique_words": 1, "words": 3}, "id": "synthetic-text-0074", "input": "word0074 word0074 word0074"}
+{"expected": {"characters": 35, "lines": 4, "longest_word": 8, "top_words": [{"count": 4, "word": "word0075"}], "unique_words": 1, "words": 4}, "id": "synthetic-text-0075", "input": "word0075\nword0075\nword0075\nword0075"}
